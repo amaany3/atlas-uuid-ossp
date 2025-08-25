@@ -6,8 +6,8 @@ ref: https://atlasgo.io/faq/postgres-extensions
 
 ```
 ❯ atlas version
-atlas version v0.36.3-20a58ab-canary
-https://github.com/ariga/atlas/releases/latest
+atlas version v0.36.0
+https://github.com/ariga/atlas/releases/tag/v0.36.0
 ```
 
 ## Steps to Reproduce
